@@ -2,5 +2,13 @@
   {
     "caption": "Processing: New Java Ant project",
     "command": "new_java_ant_project"
+  },
+  { 
+    "caption": "Project: Save As", 
+    "command": "save_project_as" 
+  },
+  { 
+    "caption": "Project: Close", 
+    "command": "close_project" 
   }
 ]
